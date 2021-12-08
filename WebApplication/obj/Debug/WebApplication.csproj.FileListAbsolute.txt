@@ -1,0 +1,478 @@
+D:\Proyectos c#\WebApplication\WebApplication\bin\WebApplication.dll.config
+D:\Proyectos c#\WebApplication\WebApplication\bin\WebApplication.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\csc.exe
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\csc.rsp
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\csi.exe
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\csi.rsp
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.Claims.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\vbc.exe
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos c#\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos c#\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Http.Formatting.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Http.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Http.WebHost.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Razor.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\WebGrease.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Http.Formatting.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Http.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Http.WebHost.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Razor.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.Http.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.Optimization.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.WebPages.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Proyectos c#\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+D:\Proyectos c#\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\Proyectos c#\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+D:\Proyectos c#\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Win32.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\netstandard.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.AppContext.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Collections.Concurrent.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Collections.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Collections.NonGeneric.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Collections.Specialized.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ComponentModel.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ComponentModel.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ComponentModel.TypeConverter.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Console.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Data.Common.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.Contracts.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.Debug.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.Process.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.StackTrace.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.Tools.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.TraceSource.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Diagnostics.Tracing.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Drawing.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Dynamic.Runtime.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Globalization.Calendars.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Globalization.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Globalization.Extensions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.Compression.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.Compression.ZipFile.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.FileSystem.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.FileSystem.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.FileSystem.Watcher.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.IsolatedStorage.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.MemoryMappedFiles.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.Pipes.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Linq.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Linq.Expressions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Linq.Parallel.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Linq.Queryable.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Http.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.NameResolution.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.NetworkInformation.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Ping.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Requests.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Security.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.Sockets.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.WebHeaderCollection.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.WebSockets.Client.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Net.WebSockets.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ObjectModel.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Reflection.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Reflection.Extensions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Reflection.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Resources.Reader.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Resources.ResourceManager.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Resources.Writer.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Extensions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Handles.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.InteropServices.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Numerics.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Serialization.Formatters.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Serialization.Json.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Serialization.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.Serialization.Xml.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Claims.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Cryptography.Csp.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Cryptography.Encoding.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Cryptography.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.Principal.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Security.SecureString.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Text.Encoding.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Text.Encoding.Extensions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Text.RegularExpressions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.Overlapped.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.Tasks.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.Tasks.Parallel.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.Thread.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.ThreadPool.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Threading.Timer.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ValueTuple.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Xml.ReaderWriter.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Xml.XDocument.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Xml.XmlDocument.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Xml.XmlSerializer.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Xml.XPath.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Xml.XPath.XDocument.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\BouncyCastle.Crypto.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Google.Protobuf.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\K4os.Compression.LZ4.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\K4os.Hash.xxHash.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\MySql.Data.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Buffers.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Memory.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Numerics.Vectors.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Ubiety.Dns.Core.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Zstandard.Net.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Google.Protobuf.pdb
+D:\Proyectos c#\WebApplication\WebApplication\bin\Google.Protobuf.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\K4os.Compression.LZ4.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\K4os.Compression.LZ4.Streams.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\K4os.Hash.xxHash.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\MySql.Data.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Buffers.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Memory.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Numerics.Vectors.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Cors.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Options.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Primitives.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Net.Http.Headers.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.ComponentModel.Annotations.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Text.Encodings.Web.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Cors.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Http.Cors.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Cors.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Options.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Extensions.Primitives.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Microsoft.Net.Http.Headers.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Text.Encodings.Web.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\System.Web.Http.Cors.xml
+D:\Proyectos c#\WebApplication\WebApplication\bin\Oracle.ManagedDataAccess.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Oracle.Web.dll
+D:\Proyectos c#\WebApplication\WebApplication\bin\Oracle.DataAccess.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\netstandard.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.AppContext.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Collections.Concurrent.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Collections.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Collections.NonGeneric.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Collections.Specialized.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ComponentModel.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ComponentModel.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Console.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Data.Common.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.Contracts.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.Debug.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.Process.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.StackTrace.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.Tools.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.TraceSource.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Diagnostics.Tracing.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Drawing.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Dynamic.Runtime.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Globalization.Calendars.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Globalization.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Globalization.Extensions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.Compression.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.Compression.ZipFile.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.FileSystem.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.IsolatedStorage.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.Pipes.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Linq.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Linq.Expressions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Linq.Parallel.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Linq.Queryable.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Http.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.NameResolution.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.NetworkInformation.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Ping.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Requests.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Security.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Sockets.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.WebHeaderCollection.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.WebSockets.Client.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.WebSockets.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ObjectModel.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Reflection.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Reflection.Extensions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Reflection.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Resources.Reader.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Resources.ResourceManager.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Resources.Writer.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Extensions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Handles.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.InteropServices.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Numerics.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Serialization.Json.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Claims.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Cryptography.Csp.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.Principal.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Security.SecureString.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Text.Encoding.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Text.Encoding.Extensions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Text.RegularExpressions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.Overlapped.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.Tasks.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.Thread.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.ThreadPool.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Threading.Timer.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ValueTuple.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Xml.ReaderWriter.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Xml.XDocument.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Xml.XmlDocument.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Xml.XmlSerializer.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Xml.XPath.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Xml.XPath.XDocument.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\BouncyCastle.Crypto.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Google.Protobuf.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\K4os.Compression.LZ4.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\K4os.Hash.xxHash.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\MySql.Data.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Buffers.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Memory.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Numerics.Vectors.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Cors.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Http.Cors.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Http.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Ubiety.Dns.Core.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\WebGrease.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Zstandard.Net.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Oracle.ManagedDataAccess.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Google.Protobuf.pdb
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Google.Protobuf.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\K4os.Compression.LZ4.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\K4os.Hash.xxHash.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\MySql.Data.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Buffers.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Memory.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Numerics.Vectors.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Http.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Http.Cors.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.Http.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.Helpers.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.Mvc.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.Optimization.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.Razor.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.WebPages.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\seba_\Desktop\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\seba_\Desktop\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\seba_\Desktop\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
